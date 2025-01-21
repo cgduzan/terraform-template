@@ -1,0 +1,8 @@
+# Terraform files to NOT be committed
+
+# installed plugins
+.terraform
+
+# stores state of the infrastructure, can contain sensitive data
+terraform.tfstate
+terraform.tfstate.backup
