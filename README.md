@@ -42,3 +42,4 @@ Once completed, you should have 1 new EC2 instance running in the `us-west-2` re
 | `terraform plan` | Show changes required by the current configuration |
 | `terraform apply` | Create or update infrastructure |
 | `terraform destroy` | Destroy previously-created infrastructure |
+| `terraform state list` | List tracked resources in the current state file |
